@@ -62,4 +62,15 @@ A generic Streamlit UI for testing generative AI agents built using Agents for A
 
     # Contributors
 
+    - **[Phạm Tiến Thuận Phát](https://github.com/delee03)** - Software Engineer
+         <table align="center">
+             <tbody>
+             	<tr>
+               	<td align="center"><a href="https://github.com/delee03">
+                     <img src="https://avatars.githubusercontent.com/delee03" width="100px;" alt="Phạm Tiến Thuận Phát"/><br/><sub><b>Thuận Phát</b></sub></a><br/><a href="https://github.com/delee03" title="Document">📝</a><a href="https://github.com/delee03" title="Code">💻</a>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+
     ![Avatar](./avatar.jpg)
